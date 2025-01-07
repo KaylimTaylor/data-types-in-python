@@ -1,0 +1,1 @@
+print(isstudent,type(isstudent))
